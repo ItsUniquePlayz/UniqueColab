@@ -1,8 +1,21 @@
-<p align="center"><a href="https://github.com/ItsUniquePlayz/UniqueColab"><img src="[https://github.com/ItsUniquePlayz/UniqueColab/blob/master/Logo.png](https://github.com/ItsUniquePlayz/UniqueColab/blob/6f1d082422ca18a988a1f07d257ad8139cb712db/Logo.png)" alt="Logo" height="80"/></a></p>
+<p align="center">
+  <a href="https://github.com/ItsUniquePlayz/UniqueColab">
+    <img src="https://raw.githubusercontent.com/ItsUniquePlayz/UniqueColab/master/Logo.png" 
+         alt="UniqueColab Logo" 
+         height="80"/>
+  </a>
+</p>
 
 <h1 align="center">UniqueColab</h1>
 <p align="center">Run Minecraft Server on Google Colab with ease</p>
-<a href="https://colab.research.google.com/github/ItsUniquePlayz/UniqueColab/blob/master/UniqueColab.ipynb" target="_parent"><img align="right" src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+
+<p align="center">
+  <a href="https://colab.research.google.com/github/ItsUniquePlayz/UniqueColab/blob/master/UniqueColab.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+  </a>
+</p>
+
+---
 
 ## 🌍 What is Google Colab?
 Google Colab (Colaboratory) is a cloud-based service that allows users to run Python code and Jupyter notebooks for free. It is commonly used for machine learning, data analysis, and automation. UniqueColab leverages Colab’s computing resources to run a Minecraft server.
@@ -43,5 +56,6 @@ If the issue persists, report a bug using [this template](https://github.com/Its
 - Experiment with different tunneling services to find the best one.
 - Avoid running intensive tasks continuously to prevent account restrictions.
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/ItsUniquePlayz)
-
+<p align="center">
+  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built With Love">
+</p>
