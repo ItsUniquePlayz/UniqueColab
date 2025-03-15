@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/ItsUniquePlayz/UniqueColab"><img src="https://github.com/ItsUniquePlayz/UniqueColab/blob/master/Logo.png" alt="Logo" height="80"/></a></p>
+<p align="center"><a href="https://github.com/ItsUniquePlayz/UniqueColab"><img src="[https://github.com/ItsUniquePlayz/UniqueColab/blob/master/Logo.png](https://github.com/ItsUniquePlayz/UniqueColab/blob/6f1d082422ca18a988a1f07d257ad8139cb712db/Logo.png)" alt="Logo" height="80"/></a></p>
 
 <h1 align="center">UniqueColab</h1>
 <p align="center">Run Minecraft Server on Google Colab with ease</p>
